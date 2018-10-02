@@ -1,0 +1,5 @@
+openGL project
+
+
+compile: gcc  Lab2.c -o  lab -lglut -lGL -lGLU -lm
+execute:./lab
